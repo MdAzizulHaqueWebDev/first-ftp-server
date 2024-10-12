@@ -1,0 +1,17 @@
+{
+	"name": "projects",
+	"version": "1.0.0",
+	"main": "index.js",
+	"start": "nodemon index",
+	"dev": "nodemon index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"ftp-srv": "^2.16.2"
+	}
+}
